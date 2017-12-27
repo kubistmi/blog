@@ -1,0 +1,8 @@
+---
+title: kNN and recommendation systems
+author: Michal Kubista
+date: '2017-12-27'
+slug: lecture-test
+---
+
+You can access the introductory lecture on kNN and recommendation systems [here](/lectures/knn/lecture3.html).
